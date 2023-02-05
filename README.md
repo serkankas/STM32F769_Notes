@@ -26,6 +26,7 @@ You can find useful documents and links in here as well. __NOTE THAT NONE OF THE
 1. Main board [pinout and adapter](/DOCs/Pinout%20and%20Adapters.pdf)
 1. [Hal library](/DOCs/HAL%20and%20Low%20Layer.pdf) for main board for reference if needed.
 1. [Oscilloscope](http://hantek.com/products/detail/17182) | DSO2C10 model.
+1. [STM32 Official Training Section](https://www.st.com/content/st_com/en/support/learning/stm32-education/stm32-online-training/stm32f7-online-training.html)
 
 Softwares and version etc.
 
