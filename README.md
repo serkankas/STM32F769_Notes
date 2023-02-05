@@ -12,13 +12,24 @@ My plan to take note about topics:
 - [ ] PWM
 - [ ] Encoder
 - [ ] DMA Application
-- [ ] ADC   
+- [ ] ADC
+- [ ] DAC
 - [ ] I2C
 - [ ] SPI
 - [ ] UART / USART
 - [ ] USB
 - [ ] SD Card
 - [ ] Ethernet Applications
+
+The Topics that I have no experience, but probably good to learn and implement anyway.
+
+- [ ] I2S
+- [ ] SAI
+- [ ] CAN
+- [ ] FMC
+- [ ] DCMI
+- [ ] LTDC
+- [ ] Arm Math Libs
 
 I have seperate for [Screen Application With Touch GFX](https://github.com/serkankas/Touch_GFX_Tutorial), that's why I don't plan to apply that course in here.
 
