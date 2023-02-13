@@ -6,8 +6,8 @@ This repository will be store the notes of mine about STM32F769 Discovery Kit Ap
 
 My plan to take note about topics:
 
-- [ ] GPIO (Led Example)
-- [ ] NVIC
+- [X] [GPIO](/Examples/GPIO_Example.md) (Led and Button Example)
+- [ ] [NVIC](/Examples/NVIC_Example.md)
 - [ ] Timer
 - [ ] PWM
 - [ ] Encoder
